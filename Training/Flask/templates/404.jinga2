@@ -1,0 +1,4 @@
+{%extends 'base.jinga2'%}
+{% block content%}
+<h1>{{post["content"]}}</h1>
+{%endblock%}
