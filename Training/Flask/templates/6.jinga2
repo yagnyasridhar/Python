@@ -1,0 +1,9 @@
+{%extends 'base.jinga2'%}
+{% block content%}
+<ul>
+{% for key,val in data.items() %}
+<li> {{key}}<li>
+<ul> <li> {{val}}</li></ul>
+{% endfor %}
+</ul>
+{%endblock%}
