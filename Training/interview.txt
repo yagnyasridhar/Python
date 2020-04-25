@@ -1,0 +1,11 @@
+Python
+https://www.testingbrain.com/interview/python-interview-questions.html
+https://www.tutorialspoint.com/python/python_interview_questions.htm
+https://www.guru99.com/python-interview-questions-answers.html
+
+Flask 
+https://www.mytectra.com/interview-question/python-flask-interview-questions-ans-answers/
+
+Django
+https://career.guru99.com/top-16-django-interview-questions/
+https://www.edureka.co/blog/interview-questions/django-interview-questions/
